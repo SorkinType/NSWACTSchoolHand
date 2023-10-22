@@ -1,30 +1,6 @@
 {
-.appVersion = "3221";
+.appVersion = "3222";
 .formatVersion = 3;
-DisplayStrings = (
-"nn n",
-e,
-"ȷ",
-"/Jacute/jacute",
-"/jacute",
-"̌",
-"ı",
-d,
-"ħ",
-"þ",
-"æ",
-c,
-"̌č",
-"œ",
-r,
-t,
-"ß",
-"ð",
-"dď",
-"/_part.b.out/p.ss03",
-"/_part.p/p.ss03",
-"/_part.p/_part.b.out/p.ss03"
-);
 axes = (
 {
 name = wght;
@@ -33,12 +9,11 @@ tag = wght;
 );
 classes = (
 {
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z a.ss03 b.ss03 c.ss03 d.ss03 e.ss03 f.ss03 g.ss03 h.ss03 i.ss03 j.ss03 k.ss03 l.ss03 m.ss03 n.ss03 o.ss03 p.ss03 q.ss03 r.ss03 s.ss03 t.ss03 u.ss03 v.ss03 w.ss03 x.ss03 y.ss03 z.ss03 e.alt s.alt a.cv01 b.cv01 c.cv01 d.cv01 e.cv01 f.cv01 h.cv01 i.cv01 k.cv01 l.cv01 m.cv01 n.cv01 o.cv01 p.cv01 q.cv01 r.cv01 s.cv01 t.cv01 u.cv01 v.cv01 w.cv01 x.cv01 z.cv01 a.cv02 b.cv02 c.cv02 d.cv02 e.cv02 f.cv02 h.cv02 i.cv02 k.cv02 l.cv02 m.cv02 n.cv02 o.cv02 p.cv02 q.cv02 r.cv02 s.cv02 t.cv02 u.cv02 v.cv02 w.cv02 x.cv02 z.cv02 a.cv03 b.cv03 c.cv03 d.cv03 e.cv03 f.cv03 h.cv03 i.cv03 k.cv03 l.cv03 m.cv03 n.cv03 o.cv03 p.cv03 q.cv03 r.cv03 s.cv03 t.cv03 u.cv03 v.cv03 w.cv03 x.cv03 z.cv03 a.cv04 b.cv04 c.cv04 d.cv04 e.cv04 f.cv04 h.cv04 i.cv04 k.cv04 l.cv04 m.cv04 n.cv04 o.cv04 p.cv04 q.cv04 r.cv04 s.cv04 t.cv04 u.cv04 v.cv04 w.cv04 x.cv04 z.cv04 a.cv05 b.cv05 c.cv05 d.cv05 e.cv05 f.cv05 h.cv05 i.cv05 k.cv05 l.cv05 m.cv05 n.cv05 o.cv05 p.cv05 q.cv05 r.cv05 s.cv05 t.cv05 u.cv05 v.cv05 w.cv05 x.cv05 z.cv05 a.cv06 b.cv06 c.cv06 d.cv06 e.cv06 f.cv06 h.cv06 i.cv06 k.cv06 l.cv06 m.cv06 n.cv06 o.cv06 p.cv06 q.cv06 r.cv06 s.cv06 t.cv06 u.cv06 v.cv06 w.cv06 x.cv06 z.cv06 a.cv07 b.cv07 c.cv07 d.cv07 e.cv07 f.cv07 h.cv07 i.cv07 k.cv07 l.cv07 m.cv07 n.cv07 o.cv07 p.cv07 q.cv07 r.cv07 s.cv07 t.cv07 u.cv07 v.cv07 w.cv07 x.cv07 z.cv07 a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina ";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcommaaccent Gdotaccent H Hbar I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J Jacute K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent A.ss04 B.ss04 C.ss04 D.ss04 E.ss04 F.ss04 G.ss04 H.ss04 I.ss04 J.ss04 K.ss04 L.ss04 M.ss04 N.ss04 O.ss04 P.ss04 Q.ss04 R.ss04 S.ss04 T.ss04 U.ss04 V.ss04 W.ss04 X.ss04 Y.ss04 Z.ss04 A.ss05 B.ss05 C.ss05 D.ss05 E.ss05 F.ss05 G.ss05 H.ss05 I.ss05 J.ss05 K.ss05 L.ss05 M.ss05 N.ss05 O.ss05 P.ss05 Q.ss05 R.ss05 S.ss05 T.ss05 U.ss05 V.ss05 W.ss05 X.ss05 Y.ss05 Z.ss05 A.ss06 B.ss06 C.ss06 D.ss06 E.ss06 F.ss06 G.ss06 H.ss06 I.ss06 J.ss06 K.ss06 L.ss06 M.ss06 N.ss06 O.ss06 P.ss06 Q.ss06 R.ss06 S.ss06 T.ss06 U.ss06 V.ss06 W.ss06 X.ss06 Y.ss06 Z.ss06 a aacute abreve acircumflex adieresis agrave amacron aogonek aring atilde ae b c cacute ccaron ccedilla cdotaccent d dcaron dcroat eth e eacute ecaron ecircumflex edieresis edotaccent egrave emacron eogonek f g gbreve gcommaaccent gdotaccent h hbar i idotless iacute icircumflex idieresis idotaccent igrave imacron iogonek ij j jdotless jacute k kcommaaccent l lacute lcaron lcommaaccent lslash m n nacute ncaron ncommaaccent ntilde eng o oacute ocircumflex odieresis ograve ohungarumlaut omacron oslash otilde oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scommaaccent germandbls t tcaron tcedilla tcommaaccent u uacute ubreve ucircumflex udieresis ugrave uhungarumlaut umacron uogonek uring v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave z zacute zcaron zdotaccent e.alt s.alt a.cv01 b.cv01 c.cv01 d.cv01 e.cv01 f.cv01 h.cv01 i.cv01 k.cv01 l.cv01 m.cv01 n.cv01 o.cv01 p.cv01 q.cv01 r.cv01 s.cv01 t.cv01 u.cv01 v.cv01 w.cv01 x.cv01 z.cv01 a.cv02 b.cv02 c.cv02 d.cv02 e.cv02 f.cv02 h.cv02 i.cv02 k.cv02 l.cv02 m.cv02 n.cv02 o.cv02 p.cv02 q.cv02 r.cv02 s.cv02 t.cv02 u.cv02 v.cv02 w.cv02 x.cv02 z.cv02 a.cv03 b.cv03 c.cv03 d.cv03 e.cv03 f.cv03 h.cv03 i.cv03 k.cv03 l.cv03 m.cv03 n.cv03 o.cv03 p.cv03 q.cv03 r.cv03 s.cv03 t.cv03 u.cv03 v.cv03 w.cv03 x.cv03 z.cv03 a.cv04 b.cv04 c.cv04 d.cv04 e.cv04 f.cv04 h.cv04 i.cv04 k.cv04 l.cv04 m.cv04 n.cv04 o.cv04 p.cv04 q.cv04 r.cv04 s.cv04 t.cv04 u.cv04 v.cv04 w.cv04 x.cv04 z.cv04 a.cv05 b.cv05 c.cv05 d.cv05 e.cv05 f.cv05 h.cv05 i.cv05 k.cv05 l.cv05 m.cv05 n.cv05 o.cv05 p.cv05 q.cv05 r.cv05 s.cv05 t.cv05 u.cv05 v.cv05 w.cv05 x.cv05 z.cv05 a.cv06 b.cv06 c.cv06 d.cv06 e.cv06 f.cv06 h.cv06 i.cv06 k.cv06 l.cv06 m.cv06 n.cv06 o.cv06 p.cv06 q.cv06 r.cv06 s.cv06 t.cv06 u.cv06 v.cv06 w.cv06 x.cv06 z.cv06 a.cv07 b.cv07 c.cv07 d.cv07 e.cv07 f.cv07 h.cv07 i.cv07 k.cv07 l.cv07 m.cv07 n.cv07 o.cv07 p.cv07 q.cv07 r.cv07 s.cv07 t.cv07 u.cv07 v.cv07 w.cv07 x.cv07 z.cv07 a.fina b.fina c.fina d.fina e.fina f.fina g.fina h.fina i.fina j.fina k.fina l.fina m.fina n.fina o.fina p.fina q.fina r.fina s.fina t.fina u.fina v.fina w.fina x.fina y.fina z.fina a.ss01 d.ss01 f.ss01 h.ss01 i.ss01 k.ss01 l.ss01 m.ss01 n.ss01 o.ss01 q.ss01 t.ss01 u.ss01 v.ss01 w.ss01 x.ss01 z.ss01 m.ss02 n.ss02 p.ss02 r.ss02 u.ss02 v.ss02 w.ss02 x.ss02 y.ss02 a.ss03 b.ss03 c.ss03 d.ss03 e.ss03 f.ss03 g.ss03 h.ss03 i.ss03 j.ss03 k.ss03 l.ss03 m.ss03 n.ss03 o.ss03 p.ss03 q.ss03 r.ss03 s.ss03 t.ss03 u.ss03 v.ss03 w.ss03 x.ss03 y.ss03 z.ss03 a.ss04 b.ss04 c.ss04 d.ss04 e.ss04 f.ss04 g.ss04 h.ss04 i.ss04 j.ss04 k.ss04 l.ss04 m.ss04 n.ss04 o.ss04 p.ss04 q.ss04 r.ss04 s.ss04 t.ss04 u.ss04 v.ss04 w.ss04 x.ss04 y.ss04 z.ss04 a.ss05 b.ss05 c.ss05 d.ss05 e.ss05 f.ss05 g.ss05 h.ss05 i.ss05 j.ss05 k.ss05 l.ss05 m.ss05 n.ss05 o.ss05 p.ss05 q.ss05 r.ss05 s.ss05 t.ss05 u.ss05 v.ss05 w.ss05 x.ss05 y.ss05 z.ss05 a.ss06 b.ss06 c.ss06 d.ss06 e.ss06 f.ss06 g.ss06 h.ss06 i.ss06 j.ss06 k.ss06 l.ss06 m.ss06 n.ss06 o.ss06 p.ss06 q.ss06 r.ss06 s.ss06 t.ss06 u.ss06 v.ss06 w.ss06 x.ss06 y.ss06 z.ss06 e.cv01.alt s.cv01.alt e.cv02.alt s.cv02.alt e.cv03.alt s.cv03.alt e.cv04.alt e.cv05.alt s.cv05.alt e.cv06.alt s.cv06.alt e.cv07.alt s.cv07.alt e.fina.alt s.fina.alt ordfeminine ordmasculine";
 name = AllLetters;
 },
 {
-code = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-";
+code = "A Aacute Abreve Acircumflex Adieresis Agrave Amacron Aogonek Aring Atilde AE B C Cacute Ccaron Ccedilla Cdotaccent D Dcaron Dcroat Eth E Eacute Ecaron Ecircumflex Edieresis Edotaccent Egrave Emacron Eogonek F G Gbreve Gcommaaccent Gdotaccent H Hbar I IJ Iacute Icircumflex Idieresis Idotaccent Igrave Imacron Iogonek J Jacute K Kcommaaccent L Lacute Lcaron Lcommaaccent Lslash M N Nacute Ncaron Ncommaaccent Ntilde Eng O Oacute Ocircumflex Odieresis Ograve Ohungarumlaut Omacron Oslash Otilde OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent Germandbls T Tcaron Tcedilla Tcommaaccent U Uacute Ubreve Ucircumflex Udieresis Ugrave Uhungarumlaut Umacron Uogonek Uring V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Z Zacute Zcaron Zdotaccent A.ss04 B.ss04 C.ss04 D.ss04 E.ss04 F.ss04 G.ss04 H.ss04 I.ss04 J.ss04 K.ss04 L.ss04 M.ss04 N.ss04 O.ss04 P.ss04 Q.ss04 R.ss04 S.ss04 T.ss04 U.ss04 V.ss04 W.ss04 X.ss04 Y.ss04 Z.ss04 A.ss05 B.ss05 C.ss05 D.ss05 E.ss05 F.ss05 G.ss05 H.ss05 I.ss05 J.ss05 K.ss05 L.ss05 M.ss05 N.ss05 O.ss05 P.ss05 Q.ss05 R.ss05 S.ss05 T.ss05 U.ss05 V.ss05 W.ss05 X.ss05 Y.ss05 Z.ss05 A.ss06 B.ss06 C.ss06 D.ss06 E.ss06 F.ss06 G.ss06 H.ss06 I.ss06 J.ss06 K.ss06 L.ss06 M.ss06 N.ss06 O.ss06 P.ss06 Q.ss06 R.ss06 S.ss06 T.ss06 U.ss06 V.ss06 W.ss06 X.ss06 Y.ss06 Z.ss06";
 name = Uppercase;
 },
 {
@@ -197,14 +172,29 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Variable Font Origin";
+value = m01;
 }
 );
 date = "2023-09-28 18:07:55 +0000";
-familyName = "NSW ACT School Hand";
+familyName = Nswact;
 featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
+
+languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
+languagesystem latn ROM;
+languagesystem latn MOL;
+languagesystem latn CAT;
+languagesystem latn NLD;
 ";
 name = Languagesystems;
 }
@@ -219,6 +209,9 @@ feature ss04;
 feature ss05;
 feature ss06;
 feature calt;
+feature locl;
+feature ordn;
+feature case;
 ";
 tag = aalt;
 },
@@ -637,6 +630,73 @@ tag = cv06;
 code = "";
 disabled = 1;
 tag = cv07;
+},
+{
+automatic = 1;
+code = "lookup ccmp_Other_1 {
+	@CombiningTopAccents = [acutecomb brevecomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	lookupflag UseMarkFilteringSet @CombiningTopAccents;
+	sub i' @CombiningTopAccents by idotless;
+	sub j' @CombiningTopAccents by jdotless;
+} ccmp_Other_1;
+";
+tag = ccmp;
+},
+{
+automatic = 1;
+code = "script latn;
+language AZE;
+lookup locl_latn_0 {
+	sub i by idotaccent;
+} locl_latn_0;
+language CRT;
+lookup locl_latn_0;
+language KAZ;
+lookup locl_latn_0;
+language TAT;
+lookup locl_latn_0;
+language TRK;
+lookup locl_latn_0;
+
+script latn;
+language ROM;
+lookup locl_latn_1 {
+	sub Scedilla by Scommaaccent;
+	sub scedilla by scommaaccent;
+	sub Tcedilla by Tcommaaccent;
+	sub tcedilla by tcommaaccent;
+} locl_latn_1;
+language MOL;
+lookup locl_latn_1;
+
+script latn;
+language CAT;
+lookup locl_latn_2 {
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_2;
+
+script latn;
+language NLD;
+lookup locl_latn_3 {
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_3;
+";
+tag = locl;
+},
+{
+automatic = 1;
+code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfeminine;
+sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
+";
+tag = ordn;
+},
+{
+automatic = 1;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+";
+tag = case;
 }
 );
 fontMaster = (
@@ -45163,7 +45223,7 @@ shapes = (
 ref = t;
 },
 {
-pos = (513,684);
+pos = (607,50);
 ref = caroncomb.alt;
 }
 );
@@ -138415,11 +138475,11 @@ note = "s only changes following diagonal joins
 e.cv0x.alt - top joins to e";
 properties = (
 {
-key = designers;
+key = copyrights;
 values = (
 {
 language = dflt;
-value = "Tina and Corey Anderson, Eben Sorkin";
+value = "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)";
 }
 );
 },
@@ -138433,6 +138493,19 @@ value = "Australian NSW ACT School Handwriting (Foundation)";
 );
 },
 {
+key = designers;
+values = (
+{
+language = dflt;
+value = "Tina and Corey Anderson, Eben Sorkin";
+}
+);
+},
+{
+key = designerURL;
+value = "https://github.com/MezMerrit/AU-School-Handwriting-Fonts";
+},
+{
 key = licenses;
 values = (
 {
@@ -138442,13 +138515,8 @@ value = "This Font Software is licensed under the SIL Open Font License, Version
 );
 },
 {
-key = copyrights;
-values = (
-{
-language = dflt;
-value = "Copyright 2022 The AU School Handwriting Fonts Project Authors (https://github.com/MezMerrit/AU-School-Handwriting-Fonts)";
-}
-);
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
 },
 {
 key = manufacturers;
@@ -138460,20 +138528,12 @@ value = "Sorkin Type Co.";
 );
 },
 {
-key = licenseURL;
-value = "https://scripts.sil.org/OFL";
-},
-{
-key = designerURL;
-value = "https://github.com/MezMerrit/AU-School-Handwriting-Fonts";
-},
-{
 key = manufacturerURL;
 value = "https://github.com/MezMerrit/AU-School-Handwriting-Fonts";
 },
 {
 key = vendorID;
-value = GOOG;
+value = STC;
 }
 );
 settings = {
