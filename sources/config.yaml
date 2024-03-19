@@ -1,7 +1,8 @@
 recipeProvider: fontprimer
 sources:
-- Nswact.glyphs
-shortFamilyName: NSW ACT
+- EduNSWACTHand
+familyName: Edu NSW ACT Hand
+shortFamilyName: Edu NSW ACT
 variants:
   - name: Precursive
     alias: Pre
