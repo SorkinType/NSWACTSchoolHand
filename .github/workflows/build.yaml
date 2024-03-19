@@ -49,8 +49,8 @@ jobs:
     - name: Check with fontbakery
       run: make test
       continue-on-error: true
-    - name: proof
-      run: make proof
+    #- name: proof
+    #  run: make proof
     - name: setup site
       run: cp scripts/index.html out/index.html
     - name: Deploy
