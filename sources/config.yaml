@@ -1,6 +1,6 @@
 recipeProvider: fontprimer
 sources:
-- EduNSWACTHand
+  - EduNSWACTHand.glyphs
 familyName: Edu NSW ACT Hand
 shortFamilyName: Edu NSW ACT
 variants:
